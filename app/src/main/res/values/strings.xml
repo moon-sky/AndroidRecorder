@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidRecorder</string>
+    <string name="start_recorder">开始录音</string>
+    <string name="play_pcm">播放录音</string>
+    <string name="recorder_error">record error</string>
+    <string name="recorder_end">录音结束</string>
+    <string name="stop_record">停止录音</string>
+</resources>
